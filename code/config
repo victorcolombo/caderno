@@ -33,6 +33,7 @@
 <Need for Speed> <easy/speed.cpp>
 <Amalgamated Artichokes> <easy/amalgated.cpp>
 <Low Power> <easy/low_power.cpp>
+<Largest Quad> <geometry/solved-largestquad.cpp>
 !Russo
 <LCA> <lca.cpp>
 <Math> <math.cpp>
