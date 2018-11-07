@@ -33,3 +33,14 @@
 <Need for Speed> <easy/speed.cpp>
 <Amalgamated Artichokes> <easy/amalgated.cpp>
 <Low Power> <easy/low_power.cpp>
+!Russo
+<LCA> <lca.cpp>
+<Math> <math.cpp>
+<Simpson> <simpson.cpp>
+<Z> <z.cpp>
+<KMP> <kmp.cpp>
+<Bipartite Maximum Matching> <maxmatch.cpp>
+<Dynamic Connectivy Offline> <dynacon2.cpp>
+<Cut Vertex> <cutvertex.cpp>
+<Bridges> <bridges.cpp>
+<Strongly Connected Components> <strongcomp.cpp>
