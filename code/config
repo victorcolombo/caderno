@@ -44,3 +44,4 @@
 <Cut Vertex> <cutvertex.cpp>
 <Bridges> <bridges.cpp>
 <Strongly Connected Components> <strongcomp.cpp>
+<vimrc> <vimrc>
