@@ -1,38 +1,4 @@
-!Geometry
-<Base> <geometry/basic.cpp>
-<Advanced> <geometry/algorithms.cpp>
-<3D> <geometry/3d.cpp>
-!Graphs
-<Dinic> <dinic.cpp>
-<MinCost MaxFlow> <min_cost.cpp>
-<Cycle Cancelling> <cycle_cancel.cpp>
-<Hungarian> <hungarian.cpp>
-!Structures
-<Ordered Set> <orderedset.cpp>
-<Treap> <treap.cpp>
-<Envelope> <envelope.cpp>
-<Centroid> <centroid.cpp>
-<Link Cut Tree> <linkcut.cpp>
-<Splay Tree> <splay.cpp>
-!Strings
-<Suffix Tree> <sufftree.cpp>
-<Z-function> <zfunction.cpp>
-<Manacher> <manacher.cpp>
-!Math
-<FFT> <math/fft.cpp>
-<Discrete FFT> <math/fft_finite.cpp>
-<Linear System Solver> <linsys.cpp>
-<Simplex> <simplex.cpp>
-<Zeta> <zeta.cpp>
-<Zeta Disjoint Or> <zeta_dor.cpp>
-<Miller-Rabin> <millerrabin.cpp>
-<Pollard-Rho> <pollard_rho.cpp>
 !Old Solutions
-<Ceiling Function> <easy/ceiling.cpp>
-<Secret Chamber at Mount Rushmore> <easy/secret.cpp>
-<Need for Speed> <easy/speed.cpp>
-<Amalgamated Artichokes> <easy/amalgated.cpp>
-<Low Power> <easy/low_power.cpp>
 <Largest Quad> <geometry/solved-largestquad.cpp>
 !Russo
 <LCA> <lca.cpp>
